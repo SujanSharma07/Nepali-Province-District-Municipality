@@ -1,5 +1,4 @@
-# LatexPicker
-Latex Picker just like DatePicker
+Province District and Municipal Selection of Nepal based on jQuery
 
 Demo at https://latex.onezero.com.np
 
