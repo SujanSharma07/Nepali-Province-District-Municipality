@@ -1,5 +1,5 @@
 /*
- * Bootstrap 3.3.6 latexEditor - jQuery plugin for Latex Editor Picker
+ * Bootstrap 3.3.6 LocalBodyNepali - jQuery plugin for Latex Editor Picker
  *
  * Copyright (c) 2019 Kiran Pantha <One Zero Software Pvt. Ltd.> kiran[at]onezero[dot]com[dot]np
  *
@@ -7,7 +7,7 @@
  *   http://www.opensource.org/licenses/mit-license.php
  *
  * Project home:
- *   https://github.com/kiranpantha/latexEditor
+ *   https://github.com/onezeronepal/Nepali-Province-District-Municipality
  *
  * Version:  1.0.1
  *
