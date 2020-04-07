@@ -1,17 +1,18 @@
 Province District and Municipal Selection of Nepal based on jQuery
 
-Demo at https://latex.onezero.com.np
+Demo at https://district.opensource.onezero.com.np/
 
-Just include https://cdn.onezero.com.np/latex/ekSunyeLatex.min.js?v=1.0.0 js at head
+Just include https://district.opensource.onezero.com.np/js/ekSunyeLocalBodyNepal.js after jQuery
 
 <pre>
-<script src="https://cdn.onezero.com.np/latex/ekSunyeLatex.min.js?v=1.0.0"></script>
+<script src="https://district.opensource.onezero.com.np/js/ekSunyeLocalBodyNepal.js"></script>
 </pre>
 <pre>
-<script type="text/javascript">
-       $(function () {
-          $(element).latexEditor();  //element can be #id or .class
-       });
+<script>
+       $('#provinceID').provinceSelect({targetDistrict:'#districtID',targetMunicipal:'#municipalityID'});
+       //#provinceID is ID for province <select> html element
+       //#districtID is ID for district <select> html element
+       //#municipalityID is ID for municipality <select> html element
 </script>
 </pre>
 
